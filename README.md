@@ -71,3 +71,8 @@ Se realizó un EDA exhaustivo utilizando Python en un Jupyter Notebook, donde se
 ### Conclusiones
 
 El análisis realizado sobre los datos reveló insights críticos que pueden guiar la implementación de políticas y medidas de seguridad vial más efectivas. La reducción significativa de accidentes durante la pandemia y el aumento de siniestros en ciertos períodos destacan la importancia de estrategias adaptativas. La alta proporción de víctimas masculinas y la peligrosidad de las avenidas subrayan la necesidad de campañas de concientización y mejoras en la infraestructura vial. Los jóvenes motociclistas y la estacionalidad de los accidentes indican áreas clave para intervenciones específicas. Las recomendaciones derivadas de este análisis, como controles de alcoholemia, educación vial, y mejoras en la señalización, tienen el potencial de reducir significativamente la tasa de siniestros viales y salvar vidas.
+
+### Datos de contacto
+
+[LinkedIn](https://www.linkedin.com/in/santos-iparraguirre-b738a82b3/)
+E-mail: santosiparraguirrem@gmail.com
