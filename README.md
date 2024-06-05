@@ -16,7 +16,8 @@ El objetivo del proyecto es analizar los datos de siniestros viales en Buenos Ai
 ### Metodología Aplicada
 
 #### Análisis Exploratorio de Datos (EDA):
-Se realizó un EDA exhaustivo utilizando Python en un Jupyter Notebook, donde se limpiaron, exploraron y visualizaron los datos para identificar patrones y tendencias clave.
+
+Se realizó un EDA exhaustivo utilizando Python en un Jupyter Notebook, donde se limpiaron, exploraron y visualizaron los datos para identificar patrones y tendencias clave. 
 
 1) **Importación y limpieza de datos:**
 - Importación de los datos desde un archivo excel.
