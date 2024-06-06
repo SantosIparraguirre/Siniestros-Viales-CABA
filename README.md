@@ -74,5 +74,6 @@ El análisis realizado sobre los datos reveló insights críticos que pueden gui
 
 ### Datos de contacto
 
-[LinkedIn](https://www.linkedin.com/in/santos-iparraguirre-b738a82b3/)
-E-mail: santosiparraguirrem@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/santos-iparraguirre-b738a82b3/)
+
+- E-mail: santosiparraguirrem@gmail.com
